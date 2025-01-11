@@ -91,7 +91,7 @@ PUBLIC_FILE_CHANNEL = environ.get('PUBLIC_FILE_CHANNEL', '') # Public Channel Us
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/thambithuthimaingrp')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/thambithuthichannel')
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'thambithuthisupport') # Support Chat Link Without https:// or @
-OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/kingvj01')
+OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/White_Blooded')
 
 # True Or False
 AI_SPELL_CHECK = bool(environ.get('AI_SPELL_CHECK', True))
